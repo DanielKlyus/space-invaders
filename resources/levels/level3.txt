@@ -1,0 +1,5 @@
+EnemyType=moving
+hp=2
+rows=1
+columns=2
+velocity=50

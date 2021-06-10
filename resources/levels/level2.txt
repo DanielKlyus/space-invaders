@@ -1,0 +1,4 @@
+EnemyType=static
+hp=3
+rows=2
+columns=2

@@ -1,0 +1,2 @@
+EnemyType=boss
+hp=40
